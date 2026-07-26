@@ -1,4 +1,4 @@
-# Anonymous Repo for NeurIPS 2026 Rebuttal: Directional Faithfulness in Learned Discretization for Geometric Representation Learning
+# NeurIPS 2026 Rebuttal: Directional Faithfulness in Learned Discretization for Geometric Representation Learning
 
 ## Reviewer 4LhS: Qualitative Visualization
 
