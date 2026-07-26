@@ -54,7 +54,7 @@ The figures strongly support the paper's empirical motivation: the same nominal 
 
 | Paper Claim | Evidence Supplied by These Figures |
 |---|---|
-| Pointwise fidelity does not guarantee directional fidelity | In the same run, VQ/LGQ-style have low held-out latent reconstruction errors, approximately $0.006$–$0.010$, yet the torus panels show high midpoint occupancy and weak symbolic separation. | 
+| Pointwise fidelity does not guarantee directional fidelity | In the same run, VQ/LGQ-style have low held-out latent reconstruction errors, approximately 0.006–0.010, yet the torus panels show high midpoint occupancy and weak symbolic separation. | 
 | Directional faithfulness is a useful additional evaluation axis | The ribbons and representative paths expose collapse, sequence merging, and angular deformation that nominal $K$ cannot reveal. | 
 | Nominal vocabulary size differs from effective local capacity | At $K=512$, each displayed 25-step path activates only 1–3 tokens; torus FSQ activates exactly one. | 
 | Tokenizer geometry affects trajectory preservation | The continuous inputs, base point, directions, and scaling are fixed, while VQ-, FSQ-, and LGQ-style discretizations produce markedly different outputs. | 
